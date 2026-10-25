@@ -1,6 +1,6 @@
 /* Service worker de l'appli « Bilan volley DVW ».
    Change VERSION à chaque mise à jour : l'appli propose alors « Mettre à jour ». */
-const VERSION = '2026-10-24.2';
+const VERSION = '2026-10-25.8';
 const CACHE = 'bilan-volley-' + VERSION;
 const FONTS = 'bilan-volley-polices';
 const FILES = ['./', './index.html', './manifest.webmanifest',
